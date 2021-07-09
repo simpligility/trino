@@ -84,14 +84,16 @@ SQL support
 -----------
 
 The connector provides **read access and limited write access** to data and
-metadata in Iceberg. The following section lists all supported SQL statements
-and provides further details.
+metadata in Iceberg. The following section lists supported SQL statements and
+provides further details.
 
-  .. important::
+.. important::
 
-      No other SQL statements are supported.
+    Only SQL statements in the following lists and the :ref:`globally available
+    statements <sql-globally-available>` are supported. No other SQL statements
+    are supported.
 
-Read access:
+Read operations:
 
 * :doc:`/sql/select` including:
 
@@ -104,7 +106,7 @@ Read access:
 * :doc:`/sql/show-tables`
 * :doc:`/sql/describe`
 
-Write access:
+Write operations:
 
 * :doc:`/sql/alter-table`
 * :doc:`/sql/create-schema`
@@ -117,8 +119,6 @@ Write access:
 * :doc:`/sql/drop-table`
 * REFRESH MATERIALIZED VIEW
 * SHOW CREATE MATERIALIZED VIEW
-
-.. include:: sql-support-others.fragment
 
 .. _iceberg-tables:
 
