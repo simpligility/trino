@@ -19,8 +19,8 @@
   all catalogs. You must activate the desired [file system
   support](file-system-configuration) with
   `fs.native-azure.enabled`,`fs.native-gcs.enabled`, `fs.native-s3.enabled`, or
-  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Azure
-  Storage](fs-legacy-azure-migration), [Google Cloud
+  `fs.hadoop.enabled` in each catalog. Use the migration guides for Azure
+  Storage, [Google Cloud
   Storage](fs-legacy-gcs-migration), and [S3](fs-legacy-s3-migration) to assist
   if you have not switched from legacy support. ({issue}`23343`)
 * Add JMX monitoring to the [](/object-storage/file-system-s3). ({issue}`23177`)
@@ -38,8 +38,7 @@
   all catalogs. You must activate the desired [file system
   support](file-system-configuration) with
   `fs.native-azure.enabled`,`fs.native-gcs.enabled`, `fs.native-s3.enabled`, or
-  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Azure
-  Storage](fs-legacy-azure-migration), [Google Cloud
+  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Google Cloud
   Storage](fs-legacy-gcs-migration), and [S3](fs-legacy-s3-migration) to assist
   if you have not switched from legacy support. ({issue}`23343`)
 * Add JMX monitoring to the native S3 file system support. ({issue}`23177`)
@@ -56,8 +55,7 @@
   all catalogs. You must activate the desired [file system
   support](file-system-configuration) with
   `fs.native-azure.enabled`,`fs.native-gcs.enabled`, `fs.native-s3.enabled`, or
-  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Azure
-  Storage](fs-legacy-azure-migration), [Google Cloud
+  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Google Cloud
   Storage](fs-legacy-gcs-migration), and [S3](fs-legacy-s3-migration) to assist
   if you have not switched from legacy support. ({issue}`23343`)
 * Add JMX monitoring to the native S3 file system support. ({issue}`23177`)
@@ -69,8 +67,7 @@
   all catalogs. You must activate the desired [file system
   support](file-system-configuration) with
   `fs.native-azure.enabled`,`fs.native-gcs.enabled`, `fs.native-s3.enabled`, or
-  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Azure
-  Storage](fs-legacy-azure-migration), [Google Cloud
+  `fs.hadoop.enabled` in each catalog. Use the migration guides for [Google Cloud
   Storage](fs-legacy-gcs-migration), and [S3](fs-legacy-s3-migration) to assist
   if you have not switched from legacy support. ({issue}`23343`)
 * Add JMX monitoring to the native S3 file system support. ({issue}`23177`)
