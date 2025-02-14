@@ -12,6 +12,7 @@ installation/deployment
 installation/containers
 installation/kubernetes
 installation/rpm
+installation/plugins
 installation/query-resiliency
 ```
 
